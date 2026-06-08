@@ -7,19 +7,19 @@
 ---
 ### Registers Tools on MCP server
 <p align="center">
-  <img src="2" alt="Burnside Project">
+  <img src="2.png" alt="Burnside Project">
 </p>
 
 ---
 ### Promot inside your Chatgpt Client
 <p align="center">
-  <img src="3" alt="Burnside Project">
+  <img src="3.png" alt="Burnside Project">
 </p>
 
 ---
 ### Query inside your Chatgpt Client
 <p align="center">
-  <img src="3a" alt="Burnside Project">
+  <img src="3a.png" alt="Burnside Project">
 </p>
 
 ---
