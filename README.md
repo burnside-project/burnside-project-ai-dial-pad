@@ -1,10 +1,28 @@
 # ai-dial-pad
 
-
 <p align="center">
-  <img src="" alt="Burnside Project">
+  <img src="1" alt="Burnside Project">
 </p>
 
+---
+### Registers Tools on MCP server
+<p align="center">
+  <img src="2" alt="Burnside Project">
+</p>
+
+---
+### Promot inside your Chatgpt Client
+<p align="center">
+  <img src="3" alt="Burnside Project">
+</p>
+
+---
+### Query inside your Chatgpt Client
+<p align="center">
+  <img src="3a" alt="Burnside Project">
+</p>
+
+---
 ## Visiblity
 > This is completely an closed source project. If you want to see a demo how you can create AI Agent tools so your end customers can start a Q/A with your backend governed data - schedule a meeting.
 
