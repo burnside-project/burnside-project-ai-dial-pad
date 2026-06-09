@@ -24,7 +24,7 @@
 
 ---
 ## Visiblity
-> This is completely an closed source project. If you want to see a demo how you can create AI Agent tools so your end customers can start a Q/A with your backend governed data - schedule a meeting.
+> This is a private repo. If you want to see a demo how you can create AI Agent tools so your end customers can start a Q/A with your backend governed data - schedule a meeting.
 
 > <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0jW4tXS9oprMT773HT843ndiFdPXAK7pro0FhX3mCpVWyYE0Y0adsAe-cPVrVSqrQ0Bm2n4cPS" >Book a Demo</a>
 
