@@ -1,7 +1,7 @@
 # ai-dial-pad
 
 <p align="center">
-  <img src="1" alt="Burnside Project">
+  <img src="1.png" alt="Burnside Project">
 </p>
 
 ---
