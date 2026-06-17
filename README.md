@@ -9,6 +9,100 @@
 <p align="center">
   <img src="2.png" alt="Burnside Project">
 </p>
+Publish governed operational data as AI-agent-ready MCP endpoints.
+
+ai-dial-pad lets teams expose trusted business context to ChatGPT, Claude, and internal AI agents without giving agents direct access to production databases.
+
+## What problem it solves
+
+AI agents need business context:
+
+- orders
+
+- customers
+
+- products
+
+- subscriptions
+
+- inventory
+
+- operational events
+
+But they should not connect directly to production PostgreSQL.
+
+ai-dial-pad publishes governed, audited, read-only operational context as discoverable MCP tools.
+
+## Product flow
+
+PostgreSQL
+
+→ pg-cdc
+
+→ Governed Lake
+
+→ Business Entities
+
+→ ai-dial-pad MCP Gateway
+
+→ ChatGPT / Claude / AI Agents
+
+## Example
+
+Paste:
+
+`https://dial.burnside.ai/p/acme-orders`
+
+Then ask:
+
+“Is product X in stock?”
+
+The agent answers from governed operational context, not the production DB.
+
+## Who it is for
+
+- SaaS companies
+
+- Data engineering teams
+
+- AI platform teams
+
+- Customer support automation teams
+
+- Enterprises adopting AI agents
+
+## Deployment model
+
+Runs in the customer cloud account.
+
+Customer data stays in the customer environment.
+
+Burnside license service handles activation only.
+
+## Security model
+
+- No direct production DB access for agents
+
+- Read-only governed context
+
+- IAM / Lake Formation / policy-based access
+
+- Audit trail for agent queries
+
+- Optional customer-managed deployment
+
+## Start here
+
+- Product overview
+
+- Architecture
+
+- Use cases
+
+- AWS Marketplace
+
+- Book a demo
+
 
 ---
 ### Promot inside your Chatgpt Client
