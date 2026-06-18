@@ -13,6 +13,12 @@ Publish governed operational data as AI-agent-ready MCP endpoints.
 
 ai-dial-pad lets teams expose trusted business context to ChatGPT, Claude, and internal AI agents without giving agents direct access to production databases.
 
+<p align="center">
+  <img src="/assets/aws-marketplace.png" alt="AWS Marketplace" height="83" />
+  <br />
+  <strong>Coming Soon on AWS Marketplace</strong>
+</p>
+
 ## What problem it solves
 
 AI agents need business context:
