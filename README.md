@@ -1,8 +1,32 @@
 # What is ai-dial-pad ?
 
-<p align="center">
-Publish governed operational data as AI-agent-ready MCP endpoints. ai-dial-pad lets teams expose trusted business context to ChatGPT, Claude, and internal AI agents without giving agents direct access to production databases. ai-dial-pad creates a physical seperation between your production data and ai agent.
-</p>
+**Publish governed operational data as AI-agent-ready MCP endpoints.**
+
+ai-dial-pad lets teams expose trusted business context to ChatGPT, Claude, and internal AI agents without giving agents direct access to production databases.
+
+It creates a physical and architectural separation between production data and AI agents.
+
+### Key Capabilities
+
+- Publish governed operational data as MCP endpoints
+
+- Expose trusted business context to ChatGPT, Claude, and internal AI agents
+
+- Keep AI agents away from production databases
+
+- Create a physical separation between production systems and AI access
+
+- Serve AI agents from governed snapshots, not live transactional systems
+
+- Support air-gapped AI access patterns
+
+- Provide auditable access to operational context
+
+- Enforce governance, identity, and access policies
+
+- Reduce risk of accidental production data exposure
+
+- Enable customer support, operations, analytics, and AI workflows
 
 <p align="center">
   <img src="1.png" alt="Burnside Project">
