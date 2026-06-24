@@ -1,5 +1,10 @@
 # What is ai-dial-pad ?
 
+<p align="center">
+  <img src="app_loader.png" alt="Burnside Project">
+</p>
+
+
 **Publish governed operational data as AI-agent-ready MCP endpoints.**
 
 ai-dial-pad lets teams expose trusted business context to ChatGPT, Claude, and internal AI agents without giving agents direct access to production databases.
