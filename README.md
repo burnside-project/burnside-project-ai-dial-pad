@@ -1,7 +1,7 @@
 # What is ai-dial-pad ?
 
 <p align="center">
-  <img src="app_loader.png" alt="Burnside Project">
+  <img src="image.png" alt="Burnside Project">
 </p>
 
 
