@@ -142,7 +142,7 @@ Burnside license service handles activation only.
 
 
 ---
-### Promot inside your Chatgpt Client
+### Prompt inside your Chatgpt Client
 <p align="center">
   <img src="3.png" alt="Burnside Project">
 </p>
